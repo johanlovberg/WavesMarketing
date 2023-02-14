@@ -7,16 +7,16 @@ import './App.css';
 
 const App = () => (
   <div className="App">
+  <Navbar />
     <div className="gradient__bg">
-      <Navbar />
-      <Header />
-    </div>
+    <Header />
     <Brand />
     <WhatGPT3 />
     <Features />
     <Possibility />
     <CTA />
     <Blog />
+  </div>
     <Footer />
   </div>
 );
