@@ -3,6 +3,7 @@
   padding: 0;
   margin: 0;
   scroll-behavior: smooth;
+  align-items: center;
 }
 
 body {
@@ -14,15 +15,14 @@ a {
   text-decoration: none;
 }
 
-.gradient__bg {
+/* .gradient__bg {
   background: linear-gradient(to bottom, #3f51b5, #bbdefb);
-}
+} */
 
 .gradient__text {
-  background: var(--gradient-text);
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #ddd;
 }
 
 .section__padding {
@@ -30,7 +30,7 @@ a {
 }
 
 .section__margin {
-  margin: 4rem 6rem;
+  margin: 1rem 4rem;
 }
 
 .scale-up-center {
