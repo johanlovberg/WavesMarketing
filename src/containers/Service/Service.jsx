@@ -5,7 +5,6 @@ import { serviceContainerHeaderText, serviceContainerText,serviceHeader } from '
 
 const Service = () => (
   <div className="service section__margin" id="services">
-     <h2 className='Header'>{serviceHeader.header}</h2>
     <div className="service-heading">
       <h1 className="gradient__text">{serviceHeader.supHeader}</h1>
     </div>

@@ -10,7 +10,7 @@ const Possibility = () => (
     <div className="gpt3__possibility-content">
       <h1 className="gradient__text">The possibilities are <br /> beyond your imagination</h1>
       <p>Accelerera din marknadsföringsframgång med vår tillväxtprocces
-      <br /> WavesMarketing@gmail.com <br /> 076-262 63 38
+      <br /> info@wavesmarketing.se <br />
       </p>
     </div>
   </div>
