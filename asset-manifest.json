@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/WavesMarketing/static/css/main.08ca5bd2.chunk.css",
-    "main.js": "/WavesMarketing/static/js/main.722a69a4.chunk.js",
-    "main.js.map": "/WavesMarketing/static/js/main.722a69a4.chunk.js.map",
+    "main.css": "/WavesMarketing/static/css/main.fe400dee.chunk.css",
+    "main.js": "/WavesMarketing/static/js/main.8c42106c.chunk.js",
+    "main.js.map": "/WavesMarketing/static/js/main.8c42106c.chunk.js.map",
     "runtime-main.js": "/WavesMarketing/static/js/runtime-main.8d5ea59f.js",
     "runtime-main.js.map": "/WavesMarketing/static/js/runtime-main.8d5ea59f.js.map",
     "static/js/2.87d2ee48.chunk.js": "/WavesMarketing/static/js/2.87d2ee48.chunk.js",
     "static/js/2.87d2ee48.chunk.js.map": "/WavesMarketing/static/js/2.87d2ee48.chunk.js.map",
     "index.html": "/WavesMarketing/index.html",
-    "static/css/main.08ca5bd2.chunk.css.map": "/WavesMarketing/static/css/main.08ca5bd2.chunk.css.map",
+    "static/css/main.fe400dee.chunk.css.map": "/WavesMarketing/static/css/main.fe400dee.chunk.css.map",
     "static/js/2.87d2ee48.chunk.js.LICENSE.txt": "/WavesMarketing/static/js/2.87d2ee48.chunk.js.LICENSE.txt",
     "static/media/Tillväxt.502abc8e.png": "/WavesMarketing/static/media/Tillväxt.502abc8e.png",
     "static/media/blog01.cefc0932.png": "/WavesMarketing/static/media/blog01.cefc0932.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.8d5ea59f.js",
     "static/js/2.87d2ee48.chunk.js",
-    "static/css/main.08ca5bd2.chunk.css",
-    "static/js/main.722a69a4.chunk.js"
+    "static/css/main.fe400dee.chunk.css",
+    "static/js/main.8c42106c.chunk.js"
   ]
 }
