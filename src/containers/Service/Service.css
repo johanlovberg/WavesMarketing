@@ -40,7 +40,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    margin: 2rem 0 8rem;
+    margin: 1rem 0 3rem;
 }
 
 .service-heading h1 {
@@ -87,13 +87,14 @@
     flex: 1;
     margin: 1rem;
     min-width: 210px;
-    display: unset;
+    display: flex;
     flex-direction: column;
 }
 
 /* Customizing feature component as per needs */
 .service-container .gpt3__features-container_feature-text {
     margin-top: 0.5rem;
+    flex-direction: column;
 }
 
 @media screen and (max-width: 850px) {

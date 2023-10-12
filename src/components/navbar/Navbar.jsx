@@ -16,13 +16,14 @@ const Navbar = () => {
         />
 
       </div>
-      <div className="gpt3__navbar-links_container">
+      <h1 className='header'> WavesMarketing</h1>
+{/*       <div className="gpt3__navbar-links_container">
           <p><a href="#home">Home</a></p>
            <p><a href="#services">Våra Tjänster</a></p>
           <p><a href="#abouts">Om</a></p>
           <p><a href="#possibility">Kontakt</a></p>
-{/*           <p><a href="#blog">Library</a></p> */}
-      </div>
+          <p><a href="#blog">Library</a></p>
+      </div> */}
       </div>
 {/*       <div className="gpt3__navbar-sign">
         <img 
