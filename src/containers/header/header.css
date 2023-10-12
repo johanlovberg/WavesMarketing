@@ -5,7 +5,6 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-right: 5rem;
 }
 
 .gpt3__header-content h1 {
@@ -29,10 +28,6 @@
     .gpt3__header {
         flex-direction: column;
     }
-
-    .gpt3__header-content {
-        margin: 0 0 3rem;
-    }
 }
 
 @media screen and (max-width: 650px) {
@@ -51,10 +46,14 @@
     .gpt3__header-content h1 {
         font-size: 36px;
         line-height: 48px;
+        padding-top: 60px;
     }
 
     .gpt3__header-content p {
         font-size: 14px;
         line-height: 24px;
+    }
+    .gpt3__header-content {
+        margin-top: 0px;
     }
 }
